@@ -128,10 +128,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@noneforge/eslint-config@^0.2.4":
-  version "0.2.4"
-  resolved "https://registry.yarnpkg.com/@noneforge/eslint-config/-/eslint-config-0.2.4.tgz#684b88723c2c2d2f7c34d89f50c16c7fc2116267"
-  integrity sha512-EEPwUgFMI8CT/nk3Z3uKNQ+tPfQf07X+B0kPy1hml7QuOStGpBWse/Jp/dCsHVuBHuSuY726WFJZtOU5aupw+Q==
+"@noneforge/eslint-config@^0.2.5":
+  version "0.2.5"
+  resolved "https://registry.yarnpkg.com/@noneforge/eslint-config/-/eslint-config-0.2.5.tgz#3934e9e143630cf29bfa7398fc31b7dd49f2b2b5"
+  integrity sha512-KEVgwdG3rrEHRPJ+fVvln9iCbRmxQyPhl212ObVyJ9UdA5kJj8PFkbWAoTu5O7rmQ4A3PD363YNJm6fDYZhKEw==
   dependencies:
     "@stylistic/eslint-plugin" "^5.3.1"
     eslint-plugin-jsdoc "^54.3.1"
@@ -437,9 +437,9 @@ cross-spawn@^7.0.6:
     which "^2.0.1"
 
 debug@^4.3.1, debug@^4.3.2, debug@^4.3.4, debug@^4.4.1:
-  version "4.4.2"
-  resolved "https://registry.yarnpkg.com/debug/-/debug-4.4.2.tgz#96b480a7fe47cc04fe57f0bf56e058dba2a001fa"
-  integrity sha512-IQeXCZhGRpFiLI3MYlCGLjNssUBiE8G21RMyNH35KFsxIvhrMeh5jXuG82woDZrYX9pgqHs+GF5js2Ducn4y4A==
+  version "4.4.1"
+  resolved "https://registry.yarnpkg.com/debug/-/debug-4.4.1.tgz#e5a8bc6cbc4c6cd3e64308b0693a3d4fa550189b"
+  integrity sha512-KcKCqiftBJcZr++7ykoDIEwSa3XWowTfNPo92BYxjXiyYEVrUQh2aLyhxBCwww+heortUFxEJYcRzosstTEBYQ==
   dependencies:
     ms "^2.1.3"
 
