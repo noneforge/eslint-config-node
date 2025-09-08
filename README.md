@@ -12,6 +12,18 @@ Comprehensive Node.js ESLint configuration with TypeScript/JavaScript support, s
 - 🚀 **Node.js 20+ LTS** - Targets modern Node.js features and APIs
 - 🔧 **Smart Detection** - Different rules for tests, scripts, migrations, and configs
 
+## Related Packages
+
+- [@noneforge/eslint-config](https://www.npmjs.com/package/@noneforge/eslint-config) - TypeScript/Javascript base configuration
+- [@noneforge/eslint-config-node](https://www.npmjs.com/package/@noneforge/eslint-config-node) - Node.js backend configuration
+- [@noneforge/eslint-config-angular](https://www.npmjs.com/package/@noneforge/eslint-config-angular) - Angular application configuration
+
+## Requirements
+
+- Node.js >=20.0.0 (LTS)
+- ESLint >=9.22.0
+- TypeScript >=5.5.0
+
 ## Installation
 
 ```bash
@@ -23,12 +35,6 @@ or with Yarn:
 ```bash
 yarn add --dev @noneforge/eslint-config-node eslint typescript
 ```
-
-## Requirements
-
-- Node.js >=20.0.0 (LTS)
-- ESLint >=9.22.0
-- TypeScript >=5.5.0
 
 ## Usage
 
