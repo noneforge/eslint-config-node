@@ -17,6 +17,8 @@
     "security",
     "eslint-plugin-n",
     "eslint-plugin-security",
+    "prettier",
+    "stylistic",
     "flat-config",
     "eslint9",
     "noneforge"
