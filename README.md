@@ -15,7 +15,6 @@ Comprehensive Node.js ESLint configuration with TypeScript/JavaScript support, s
 ## Related Packages
 
 - [@noneforge/eslint-config](https://www.npmjs.com/package/@noneforge/eslint-config) - TypeScript/Javascript base configuration
-- [@noneforge/eslint-config-node](https://www.npmjs.com/package/@noneforge/eslint-config-node) - Node.js backend configuration
 - [@noneforge/eslint-config-angular](https://www.npmjs.com/package/@noneforge/eslint-config-angular) - Angular application configuration
 
 ## Requirements
