@@ -1,6 +1,6 @@
 {
   "name": "@noneforge/eslint-config-node",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Node.js ESLint configuration with TypeScript/JavaScript, security, and performance rules",
   "keywords": [
     "eslint",
