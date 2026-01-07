@@ -128,10 +128,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@noneforge/eslint-config@^0.2.6":
-  version "0.2.6"
-  resolved "https://registry.yarnpkg.com/@noneforge/eslint-config/-/eslint-config-0.2.6.tgz#ee62823c0869ab24668a64cd77b9da0ec37340a0"
-  integrity sha512-l4ZIRHughBBT6k9zKH6wlp+wgl7NMovimhWe6n6jJ5B+0kThuwPglSJ582tPgDJEISpauXMMJ1hELQf5NkCIGw==
+"@noneforge/eslint-config@^0.2.8":
+  version "0.2.8"
+  resolved "https://registry.yarnpkg.com/@noneforge/eslint-config/-/eslint-config-0.2.8.tgz#3408965f1bf688707e520409a084e12b958838b4"
+  integrity sha512-kV1OBC9v9W4RZruYMjv9JSlIwo651K6QrEWmeadnRW1QT9KKudG5YiZY1qs8g+525f81nRADN9NpiP+PrCZ5+A==
   dependencies:
     "@stylistic/eslint-plugin" "^5.3.1"
     eslint-plugin-jsdoc "^54.3.1"
